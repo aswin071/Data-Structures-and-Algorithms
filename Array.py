@@ -1,4 +1,6 @@
-#The array data structure is a fundamental concept in programming. It represents a fixed-size collection of elements of the same type, stored in contiguous memory locations. Each element in the array is identified by its index, which is an integer value starting from 0
+#The array data structure is a fundamental concept in programming. 
+#It represents a fixed-size collection of elements of the same type, stored in contiguous memory locations. 
+#Each element in the array is identified by its index, which is an integer value starting from 0.
 
 class Array:
     def __init__(self):
